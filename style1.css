@@ -1,0 +1,276 @@
+body{
+	margin:0;
+	padding:0;
+	}
+#page, #page2, #page3, #page4, #page5, #page6, #page7, #page8, #page9, #page10, #page11, #page12, #page13, #page14, #page15, #page16, #page17, #page18, #page19, #page20, #page21, #page22, #page23, #page24{
+	background:url(../images/thumbnails/BG2.png) repeat;
+	}
+	
+.greyline{
+	width:100%;
+	height:15px;
+	background:#808080;
+	margin:0;
+	padding:0;}
+	
+.sub-menu{
+	width:100%;
+	height:30px;
+	}
+
+.sub-menu h5{
+	margin: 0 30px;
+	padding: 0;
+	float: left;
+	color: #CCCCCC;
+	text-shadow: none;
+}
+#logo{
+	width:100%;
+	height:180px;
+	background:url(../images/thumbnails/logo2.png) top no-repeat;
+	margin:0 auto;
+	padding:0;
+	}
+	
+.header{
+	width:100%;
+	height:200px;
+	background:#405580;
+	padding:0;
+	padding:0;}
+	
+
+.bodyCopy h3{
+	text-align:center;}
+	
+.a-half{
+	width:50%;
+	float:left;}
+#page .mainmenu{
+	margin:5px;
+	padding:0;}
+	
+#page .mainmenu li{
+	background:none;
+	border:none;}
+	
+#page .mainmenu li a{
+	display:block;
+	background: rgba(255,255,255,.6);
+	border-radius:10px;
+	margin-bottom:5px;
+	}
+	
+#page .mainmenu h3{
+	font-size:24px;
+	}
+	
+#page .mainmenu p{
+	font-size:17px;
+	}
+	
+#page .mainmenu li a:hover{
+	background:rgba(255,255,255,.9)}
+	
+#page .footerBG, #page2 .footerBG, #page3 .footerBG, #page4 .footerBG, #page5 .footerBG, #page6 .footerBG, #page7 .footerBG, #page8 .footerBG, #page9 .footerBG, #page10 .footerBG, #page11 .footerBG, #page12 .footerBG, #page13 .footerBG, #page14 .footerBG, #page15 .footerBG, #page16 .footerBG, #page17 .footerBG, #page18 .footerBG, #page19 .footerBG, #page20 .footerBG, #page21 .footerBG, #page22 .footerBG, #page23 .footerBG, #page24 .footerBG{
+	width:100%;
+	height:50px;
+	background:#808080;
+	text-align:center;
+	border:0;
+	}
+	
+.style2{
+	color:#666;
+	}
+
+.input{
+	width:65%;
+	height:30px;
+	
+	float:left;
+	margin-left:2%;}
+.submit{
+	margin:20px;}		
+		
+.sub-menu i{
+	color:#cccccc;
+	font-size:18px;
+	margin-top:4px;}
+
+	
+.profile h4{
+	color:#333;
+	margin:0;
+	padding:0;
+	text-align:center;}
+	
+.profile h5{
+	color:#333;
+	margin:0;
+	padding:0;
+	text-align:center;}
+	
+#pic img{
+	width:100px; 
+	height:120px;
+	margin: 0 15%;
+	padding:0;
+	border:1px solid #808080;
+	text-align:center;
+	}
+	
+#page2 .bodyCopy, #page3 .bodyCopy, #page4 .bodyCopy, #page5 .bodyCopy, #page6 .bodyCopy, #page7 .bodyCopy, #page8 .bodyCopy, #page9 .bodyCopy, #page10 .bodyCopy, #page11 .bodyCopy, #page12 .bodyCopy, #page13 .bodyCopy, #page14 .bodyCopy, #page15 .bodyCopy, #page16 .bodyCopy, #page17 .bodyCopy, #page18 .bodyCopy, #page19 .bodyCopy, #page20 .bodyCopy, #page21 .bodyCopy, #page22 .bodyCopy{
+	background:rgba(255,255,255,.6);
+	border-radius:5px;
+	margin:10px;
+	padding:10px;}
+#profile{
+	width:100%;
+	height:800px;
+	overflow:hidden;
+	}
+	
+.profile{
+	width:150px;
+	float:left;
+	height:280px;
+	border:1px solid #808080;
+	margin:5px;}
+	
+
+
+	
+/*-------register----
+.ui-btn{
+	background:none;
+	box-shadow:none;
+	color:#f4f4f4;
+	text-shadow:none;
+	width:90%;
+	height:30px;
+	border-radius:10px;
+	margin: 0  20px 20px 10px;
+	outline:none;
+	vertical-align:middle;
+	padding:0;
+	}
+*/	
+
+
+#image{
+	width:120px;
+	height:150px;
+	border:1px solid #fff;
+	border-radius:3px;
+	margin:10px auto;}
+	
+input.style1{
+	width:38%;
+	margin: 3%;
+	height:20px;
+	float:left;
+	background:transparent;
+	color:#000;
+	text-shadow:none;
+	border:1px solid #fff;}
+ input.style2{
+	 width:87%;
+	 margin: 3%;
+	 background:transparent;
+	 color:#000;
+	text-shadow:none;
+	height:20px;
+	border:1px solid #fff;}
+	
+.mainmenu h5{
+	color:#f4f4f4;
+	text-shadow:none;
+	padding-left:7%;
+	font-size:15px;}
+	
+.ui-block-a{
+	text-align:center;
+	margin:0 auto;
+	width:100%;
+	border-top:1px solid #666;
+	clear:both;}
+	
+.ui-grid-a{
+	text-align:center;
+	margin:0 auto;
+	width:100%;
+	
+	clear:both;}
+	
+	
+.one-third{
+		margin:0;
+		width:100%;
+	}
+	
+ul.social{
+	margin:0 0 6% 0;
+	padding:0;}
+	
+.social li{
+	display:inline;
+}
+
+.social i{
+	font-size: 250%;
+	padding: 2% 6%;
+	color: #959595;
+
+}
+
+.social i:hover{
+	color: #f5f5f5;
+}
+
+.login a{
+	text-shadow:none;
+	text-decoration:none;
+	font-weight:lighter;
+	}
+	
+#data1 p{
+	font-size:18px;
+	text-align:justify;}
+	
+#data1 h3{
+	font-size:28px;}
+	
+#terms p{
+	text-align:justify;
+	color:#000;}
+	
+p .style{
+	text-align:center;}
+	
+#privacy p{
+	text-align:justify;
+	color:#000;
+	}
+	
+#sorry{
+	text-align:center;}
+	
+#sorry h1{
+	font-size:35px;}
+
+		
+		
+@media screen and (max-width:360px){
+	
+	.profile{
+	width:140px;
+	float:left;
+	height:280px;
+	
+	
+	
+	}
+	
+	}
